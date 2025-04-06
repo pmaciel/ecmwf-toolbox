@@ -1,0 +1,36 @@
+[submodule "ecbuild"]
+	path = ecbuild
+	url = git@github.com:ecmwf/ecbuild.git
+	branch = master
+[submodule "eccodes"]
+	path = eccodes
+	url = git@github.com:ecmwf/eccodes.git
+	branch = develop
+[submodule "eckit"]
+	path = eckit
+	url = git@github.com:ecmwf/eckit.git
+	branch = develop
+[submodule "odc"]
+	path = odc
+	url = git@github.com:ecmwf/odc.git
+	branch = develop
+[submodule "metkit"]
+	path = metkit
+	url = git@github.com:ecmwf/metkit.git
+	branch = develop
+[submodule "atlas"]
+	path = atlas
+	url = git@github.com:ecmwf/atlas.git
+	branch = develop
+[submodule "atlas-orca"]
+	path = atlas-orca
+	url = git@github.com:ecmwf/atlas-orca.git
+	branch = develop
+[submodule "mir"]
+	path = mir
+	url = git@github.com:ecmwf/mir.git
+	branch = develop
+[submodule "magics"]
+	path = magics
+	url = git@github.com:ecmwf/magics.git
+	branch = develop
