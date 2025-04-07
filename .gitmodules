@@ -34,3 +34,7 @@
 	path = magics
 	url = git@github.com:ecmwf/magics.git
 	branch = develop
+[submodule "fdb"]
+	path = fdb
+	url = git@github.com:ecmwf/fdb.git
+	branch = develop
